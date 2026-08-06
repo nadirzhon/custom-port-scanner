@@ -1,5 +1,7 @@
 # 🔍 Custom Port Scanner
 
+![Python](https://img.shields.io/badge/Python-3.10%2B-3776AB?logo=python&logoColor=white) ![License](https://img.shields.io/badge/License-MIT-green) ![Tests](https://img.shields.io/badge/tests-passing-success) ![Status](https://img.shields.io/badge/status-active-brightgreen)
+
 A fast, multithreaded port scanner with service fingerprinting, banner grabbing, and JSON/HTML report output.
 
 ## Features
